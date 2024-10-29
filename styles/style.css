@@ -219,7 +219,7 @@ h2 {
   flex-direction: column;
   justify-content: space-between;
   width: 334px;
-  min-height: 563px;
+  height: 100%;
   background-repeat: no-repeat;
   background-position: center;
 }
